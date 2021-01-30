@@ -1,5 +1,3 @@
-## This is for practicing web security
-
 ## Project Stack
 
 - node js
