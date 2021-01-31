@@ -1,8 +1,6 @@
-## This is for practicing web security
-
 ## Project Stack
 
-- node js
-- php
-- java
-- react js
+- Node js
+- Php
+- Java
+- React js
